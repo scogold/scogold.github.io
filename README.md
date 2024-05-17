@@ -1,4 +1,3 @@
-# scogold.github.io
 
 ## Education
 University of Denver, B.S. Computer Science
