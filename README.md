@@ -1,6 +1,6 @@
 
 ## Education
-**University of Denver, B.S. Computer Science**
+**University of Denver, B.S. Computer Science** \
 GPA: 3.7 \
 Minors
 - Mathematics
