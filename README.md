@@ -11,4 +11,5 @@ University of Denver, B.S. Computer Science
 - **Coding Instructor at International Stem Academy**
 - **Coding Instructor at CodeNinjas**
 
-Go to [Project1](project1.md)
+## Project
+[Project1](project1.md)
