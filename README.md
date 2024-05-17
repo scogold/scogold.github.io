@@ -26,5 +26,5 @@ Coursework
 - Coding Instructor at International Stem Academy
 - Coding Instructor at CodeNinjas
 
-## Project
+## Projects
 [Project1](project1.md)
