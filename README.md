@@ -6,6 +6,7 @@ GPA: 3.7 \
 - Mathematics
 - International Studies
 - Entrepreneurship\
+
 **Coursework**
 - Machine Learning & Neural Networks
 - Discrete Structures
