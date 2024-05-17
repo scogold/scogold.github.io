@@ -1,6 +1,20 @@
 
 ## Education
-University of Denver, B.S. Computer Science
+**University of Denver, B.S. Computer Science**
+GPA: 3.7 \
+Minors
+- Mathematics
+- International Studies
+- Entrepreneurship
+Coursework
+- Machine Learning & Neural Networks
+- Discrete Structures
+- Systems Programming
+- Statistics & Data Science
+- Calculus III
+- Algorithms & Data Structures
+- Mobile Application Development
+- Operating Systems
 
 ## Work Experience
 - **Software Engineering Intern at ICR**
