@@ -5,7 +5,7 @@ GPA: 3.7 \
 **Minors**
 - Mathematics
 - International Studies
-- Entrepreneurship
+- Entrepreneurship\
 **Coursework**
 - Machine Learning & Neural Networks
 - Discrete Structures
