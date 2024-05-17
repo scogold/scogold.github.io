@@ -1,9 +1,9 @@
 # scogold.github.io
 
-### Education
+# Education
 University of Denver, B.S. Computer Science
 
-### Work Experience
+# Work Experience
 Software Engineering Intern at ICR
 Software Engineering Intern at Vinesight
 Director at Silicon Stem Academy
