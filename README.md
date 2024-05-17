@@ -2,11 +2,11 @@
 ## Education
 **University of Denver, B.S. Computer Science** \
 GPA: 3.7 \
-Minors
+**Minors**
 - Mathematics
 - International Studies
-- Entrepreneurship \
-Coursework
+- Entrepreneurship
+**Coursework**
 - Machine Learning & Neural Networks
 - Discrete Structures
 - Systems Programming
