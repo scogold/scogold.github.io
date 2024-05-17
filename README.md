@@ -6,7 +6,7 @@ Minors
 - Mathematics
 - International Studies
 - Entrepreneurship
-\Coursework
+Coursework
 - Machine Learning & Neural Networks
 - Discrete Structures
 - Systems Programming
